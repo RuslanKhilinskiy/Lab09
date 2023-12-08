@@ -1,0 +1,7 @@
+D:\C#Learning\Labs\Lab09General\Book\Book\bin\Debug\Book.exe.config
+D:\C#Learning\Labs\Lab09General\Book\Book\bin\Debug\Book.exe
+D:\C#Learning\Labs\Lab09General\Book\Book\bin\Debug\Book.pdb
+D:\C#Learning\Labs\Lab09General\Book\Book\obj\Debug\Book.csproj.AssemblyReference.cache
+D:\C#Learning\Labs\Lab09General\Book\Book\obj\Debug\Book.csproj.CoreCompileInputs.cache
+D:\C#Learning\Labs\Lab09General\Book\Book\obj\Debug\Book.exe
+D:\C#Learning\Labs\Lab09General\Book\Book\obj\Debug\Book.pdb
